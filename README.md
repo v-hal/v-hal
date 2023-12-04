@@ -8,8 +8,6 @@ My name is Ville. I'm a Software Developer at [Mapbox <img src="https://github.c
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villehalminen/) 
 
 #### Tech I use
-![React](https://img.shields.io/badge/react-232F3E.svg?style=for-the-badge&logo=react&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-232F3E.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-232F3E?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-232F3E?style=for-the-badge&logo=python&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-232F3E?logo=dotnet&logoColor=fff&style=for-the-badge)
@@ -18,6 +16,8 @@ My name is Ville. I'm a Software Developer at [Mapbox <img src="https://github.c
 ![Express Badge](https://img.shields.io/badge/Express-232F3E?logo=express&logoColor=fff&style=for-the-badge)
 ![NestJS Badge](https://img.shields.io/badge/NestJS-232F3E?logo=nestjs&logoColor=fff&style=for-the-badge)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-232F3E?logo=graphql&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/react-232F3E.svg?style=for-the-badge&logo=react&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-232F3E.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-232F3E?logo=microsoftazure&logoColor=fff&style=for-the-badge)
 ![Amazon ECS Badge](https://img.shields.io/badge/Amazon%20ECS-232F3E?logo=amazonecs&logoColor=fff&style=for-the-badge)
