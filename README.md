@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ville. I'm a Software Developer at [Mapbox <img src="https://github.com/v-hal/v-hal/assets/1327481/268fdfec-daf9-4191-9f24-78a554154867" height="20px" />](https://www.mapbox.com/)  located in Helsinki, Finland (EET).
+My name is Ville. I'm a Software Developer at [Wolt](https://www.wolt.com/)  located in Helsinki, Finland (EET).
 
 #### Contact me on 
 
